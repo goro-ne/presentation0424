@@ -1,4 +1,4 @@
-##  Bigdataビジネスの未来
+##  Sample Page
 
 This is a new Markdown slide
 
@@ -7,7 +7,6 @@ This is a new Markdown slide
 # page 2
 
 note: speaker notes FTW!
-
 
 ---
 

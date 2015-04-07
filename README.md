@@ -98,12 +98,12 @@ $ mkdir images
 
 ```
 例）
-$ yo reveal:slide "Bigdataビジネスの未来"
+$ yo reveal:slide "Sample Page"
 ```
 
 ```
 slides
-├── bigdata.md    <-- 追加されました。
+├── sample-page.md    <-- 追加されました。
 ├── index.md
 └── list.json
 ```
@@ -113,11 +113,11 @@ Note: 日本語はファイル名として無視されるようです。
 
 ### スライドファイルを開いてみる
 
-templates/bigdata.md
+templates/sample-page.md
 
 ```
 例）
-##  Bigdataビジネスの未来
+##  Sample Page
 
 This is a new Markdown slide
 ```
@@ -131,7 +131,7 @@ slides/list.json
 ```
 例）
 [
-    "bigdata.md",   <-- 並べた順に表示される
+    "sample-page.md",   <-- 並べた順に表示される
     "index.md"
 ]
 ```
@@ -166,12 +166,12 @@ templates/_index.html
 　<link rel="stylesheet"
     href="bower_components/reveal.js/css/theme/default.css" id="theme">
 ```
-↓　sky.css に変更
+↓　solarized.css に変更
 
 ```
 例）
 　<link rel="stylesheet"
-    href="bower_components/reveal.js/css/theme/sky.css" id="theme">
+    href="bower_components/reveal.js/css/theme/solarized.css" id="theme">
 ```
 
 ---
@@ -186,7 +186,7 @@ $ grunt serve
 
 ### Chromeが起動します
 
-![](images/future-of-bigdata.png)
+![](images/sample-page.png)
 
 
 ---
@@ -195,10 +195,10 @@ $ grunt serve
 
 以下を2ページ目、３ページ目を追記してみましょう
 
-templates/bigdata.md
+templates/sample-page.md
 ```
 例）
-##  Bigdataビジネスの未来
+##  Sample Page
 
 This is a new Markdown slide
 
