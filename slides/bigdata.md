@@ -109,9 +109,33 @@ div .title {
 ---
 
 ## 収集済のデータを無償提供してもらう
-- POSデータ解析
+- POSデータ解析あ
+
 
 ---
+
+
+**１０年国債利回り  <span style="color:red">0.398 % </span>**
+
+財務省 国債金利情報(平成27年3月31日)
+https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.htm
+
+---
+
+銀行系ビジネスローン
+年率：9.0％～15.0％
+
+年率：8.0%～18.0%
+
+
+ビジネスローン（商工ローン）  実質年率：15.00％～25.55％
+※中小企業向けの無担保事業者ローン
+
+
+
+---
+
+
 
 <div class="title">紹介人材のマッチングサービス <span style="font-size:20px;">Business plan #1</span></div>
 
@@ -128,7 +152,7 @@ div .title {
 <div class="left">
 <li>職歴、スキルシートから問い合わせ人材と「特徴」が似ている人材をマップ化して紹介する。</li>
 <li>営業マンが情報を精査する時間を大幅に短縮して、スピーディに人材を紹介することができる。</li>
-<li style="color:red">販売先：リクナビ、マイナビ、日経ナビなどのインターネット人材マッチング、データベース活用している派遣業</li>
+<li style="color:red">販売先：データベース有効活用している派遣業、リクナビ、マイナビ、日経ナビなどのインターネット人材マッチングサービス</li>
 </div>
 
 </div>
@@ -156,7 +180,7 @@ http://sbestway.com/s/service.html
 <li>人探しや同一人物判定など、顔が似ている人物を探せるサービス。</li>
 <li>膨大な顔写真から「特徴」が似ている集団をマップで見える化する。</li>
 <li style="color:red">販売先：名刺検索、受付業務、スカウト、紹介ビジネス、ホテル</li>
-<li style="color:green">関連技術：顔写真から年齢・人種・ルックスなどを自動認識する技術「ReKognition」、NEC『顔認証技術活用 マーケティングサービス』、株式会社システム・ケイ「顔認識マーケティングサービス</li>
+<li style="color:Indigo">関連技術：顔写真から年齢・人種・ルックスなどを自動認識する技術「ReKognition」、NEC『顔認証技術活用 マーケティングサービス』、株式会社システム・ケイ「顔認識マーケティングサービス</li>
 </div>
 
 </div>
@@ -199,7 +223,7 @@ Note: 説明文
 
 ---
 
-<div class="title">人材トレンドマップ化サービス <span style="font-size:20px;">Business plan #2</span></div>
+<div class="title">人材トレンドマップ化サービス <span style="font-size:20px;">Business plan #4</span></div>
 
 <div class="frame">
 <div class="right">
@@ -234,31 +258,654 @@ http://jisi.info/
 
 ---
 
-<div class="title">逆引き知恵袋サービス <span style="font-size:20px;">Business plan #3</span></div>
+<div class="title">逆引き知恵袋サービス <span style="font-size:20px;">Business plan #5</span></div>
 
 <div class="frame">
+<div class="right">
+<div class="shadow">
 ![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
 
-<table><tr><td>
+<div class="left">
 <li>自由文で質問を入力して、社内で質問に関する知見を持った人物を探し出すサービス。</li>
 <li>従業員の職歴、メール、チャット等の話題をリアルタイムに収集して、人物に関連するキーワードを抽出。知見として見える化する。</li>
-</td></tr></table>
+<li style="color:red">データ仕入先：</li>
+</div>
 
 </div>
 
 Note: 説明文
+
+
 
 ---
 
 <div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
 
 <div class="frame">
+<div class="right">
+<div class="shadow">
 ![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
 
-<table><tr><td>
-<li>サービス概要</li>
-<li>説明</li>
-</td></tr></table>
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
+
+</div>
+
+Note: 説明文
+
+
+---
+
+<div class="title">サービス <span style="font-size:20px;">Business plan #</span></div>
+
+<div class="frame">
+<div class="right">
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+<div class="shadow">
+![](http://www.micello.com/sites/default/files/imagecache/full_size/wysiwyg_imageupload/112/dataprocessing.jpg)
+</div>
+</div>
+
+<div class="left">
+<li>…する。</li>
+<li>…できる。</li>
+<li style="color:red">データ仕入先：</li>
+</div>
 
 </div>
 
@@ -268,130 +915,7 @@ Note: 説明文
 ---
 
 
-# ＃4
-サービス名：
-業種：
 
-
----
-
-# ＃5
-サービス名：スキル価格マップ
-業種：人材育成、
-優秀な人材の学習コストは小さい。
-
-
-
----
-
-# ＃6
-サービス名：
-業種：
-
-
----
-
-# ＃7
-サービス名：
-業種：
-
-
----
-
-# ＃8
-サービス名：
-業種：
-
-
----
-
-# ＃9
-サービス名：
-業種：
-
-
----
-
-# ＃10
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
-
-
----
-
-# ＃
-サービス名：
-業種：
 
 
 
