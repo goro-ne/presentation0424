@@ -20,7 +20,7 @@
 <img style="width:50%;height:auto;" src="images/meigen.jpg"/>
 </div>
 
-<div style="text-align:left;">
+<div style="text-align:center;">
 <p>３社合同事業（ATGS/サイバネット／toor）として</p>
 <p style="color:Tomato;">ビッグデータ可視化エンジン（toorPIA）の開発体制づくりに着手</p>
 </div>
