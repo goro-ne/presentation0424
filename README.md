@@ -98,7 +98,7 @@ $ mkdir images
 
 ```
 例）
-$ yo reveal:slide "Sample Page"
+$ yo reveal:slide "Sample Page" --markdown
 ```
 
 ```
