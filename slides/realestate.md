@@ -1,6 +1,6 @@
 ##  Realestate
 
-不動産業
+不動産ブローカー
 
 
 ---
@@ -22,6 +22,7 @@
 <li>スーパー、薬局、託児所、駐車場などの暮らしに役立つ地域情報も合わせて提供する。</li>
 <li style="color:orange">販売先：家主（月額サービス）、自社向けエンドユーザサービス</li>
 <li style="color:green">関連技術：</li>
+<li style="color:green">既存技術：不動産ブローカー</li>
 </div>
 
 </div>
