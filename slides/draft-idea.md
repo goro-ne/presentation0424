@@ -5,36 +5,58 @@
 
 ---
 
-```
-銀行融資業務（ネットバンク、ファイナンスツール）
-スポーツの審判（センサー？）
-不動産ブローカー（コンシェルジュサービス）
-レストランの案内業務（POSシステム、ハンディターミナル）
-保険の審査業務（ビッグデータでリスク計算、自動で掛け金を計算）
-動物のブリーダー（iPS、人工受精、クローン技術？）
-電話オペレーター（日本語解析、自動回答システム）
-給与・福利厚生担当業務
-レジ係ß
-娯楽施設の案内係、チケットもぎり係
-カジノのディーラー
-ネイリスト
-クレジットカード申込の調査、承認係
-集金係
-パラリーガル、弁護士助手
-ホテルの受付係
-テレアポ販売員
-オーダーメイドの仕立て屋（手縫い）
-時計修理工
-税務申告、代行業
-図書館の補助員
-データ入力作業員
-彫刻師（3Dモデリング、3Dプリンター、工作機）
-
-
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DfOaH9CGL-Y" frameborder="0" allowfullscreen></iframe>
 
 ---
 
+<div>
+702職種中
+20年以内に 330職種（約47%）が自動化されるリスクが高い
+
+10年以内に 90%以上の確率で消滅する36職種
+オズボーン氏の論文『雇用の未来』の中で、
+コンピューターに代わられる確率の高い仕事として挙げられた職業
+</div>
+
+---
+
+
+---
+
+<div class="title">SEC</div>
+
+<div>
+Social Economic Characteristics（社会経済特性）
+http://www.shinki-kaitaku.com/s07_word/other/al099.html
+</div>
+
+![](images/sec.png
+
+---
+
+<div class="title">3C分析</div>
+
+![](http://image.itmedia.co.jp/ait/articles/0712/26/r8keiei_01.gif)
+http://www.atmarkit.co.jp/ait/articles/0712/26/news116.html
+
+---
+
+
+法律の分野
+```
+裁判前のリサーチのために数千件の弁論趣意書や判例を精査するコンピューターがすでに活用されており、米ソフトウェア大手シマンテックのサービスを利用すると、2日間で57万件以上の文書を分析して分類することができる。
+弁護士アシスタントであるパラリーガルや、契約書専門、特許専門の弁護士の仕事は、
+すでに高度なコンピューターによって行われるようになっている
+```
+
+
+警察
+```
+```
+
+
+
+---
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/rkVTYYOAWtY?rel=0&hd=1&showinfo=0&theme=light&autohide=1" frameborder="0" allowfullscreen></iframe>
 

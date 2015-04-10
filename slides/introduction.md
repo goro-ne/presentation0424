@@ -98,7 +98,6 @@ Note: 説明文
 <img style="width:80%;height:auto;" src="images/bigdata-viewer-image.png">
 </div>
 
-
 Note: 説明文
 研修風景
 
@@ -111,10 +110,3 @@ Note: 説明文
 <p>・各種業種での分析方法 etc...</p>
 <p>・マトリックス</p>
 </div>
-
-
----
-
-## Solutions
-
-ビッグデータビジネスの展開、事業転用プランをご紹介
