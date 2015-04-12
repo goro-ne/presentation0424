@@ -10,7 +10,7 @@
 <div class="right">
 
 <div class="shadow">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ILb5ExBzHqw?rel=0&hd=1&showinfo=0&theme=light&autohide=1&autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ILb5ExBzHqw?rel=0&hd=1&showinfo=0&theme=light&autohide=1&autoplay=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
