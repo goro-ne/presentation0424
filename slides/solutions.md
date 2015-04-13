@@ -13,16 +13,16 @@
 <br>
 
 <li>IOT（Internet of Things)</li>
-<div style="color:Tomato">モノがネットにつながり、あらゆることを自動化する分野</div>
+<div style="color:Tomato">モノがネットにつながり、相互に連携して自動化する分野</div>
 
 <li>人工知能（AI）、機械学習</li>
-<div style="color:Tomato">モノが人間のように判断する分野</div>
+<div style="color:Tomato">モノが人間のように思考または学習、判断する分野</div>
 
 <li>ウェアブル、センサー</li>
-<div style="color:Tomato">モノが現実世界を認識して判断、人間をアシストする分野</div>
+<div style="color:Tomato">モノが現実世界を認識して判断／サポート、人の能力を向上させる分野</div>
 
 <li>3Dプリンタ（現代の「どこでもドア」）</li>
-<div style="color:Tomato">コンピュータでモノを作り、時空を超えてデータにより転送する分野</div>
+<div style="color:Tomato">モノを3Dモデルデータとして転送、現地で実体化する分野</div>
 
 </div>
 

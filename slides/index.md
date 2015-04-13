@@ -51,3 +51,49 @@ Available options:
 ・殺虫剤の混合、散布の技術者
 ・クレジットカード申し込み者の承認/審査を行う作業員
 ・訪問販売員、路上新聞売り、露店商人
+
+---
+
+<div class="title">SEC</div>
+
+<div>
+Social Economic Characteristics（社会経済特性）
+http://www.shinki-kaitaku.com/s07_word/other/al099.html
+</div>
+
+![](images/sec.png
+
+---
+
+<div class="title">3C分析</div>
+
+![](http://image.itmedia.co.jp/ait/articles/0712/26/r8keiei_01.gif)
+http://www.atmarkit.co.jp/ait/articles/0712/26/news116.html
+
+---
+
+
+法律の分野
+```
+裁判前のリサーチのために数千件の弁論趣意書や判例を精査するコンピューターがすでに活用されており、米ソフトウェア大手シマンテックのサービスを利用すると、2日間で57万件以上の文書を分析して分類することができる。
+弁護士アシスタントであるパラリーガルや、契約書専門、特許専門の弁護士の仕事は、
+すでに高度なコンピューターによって行われるようになっている
+```
+
+
+警察
+```
+```
+
+
+
+
+---
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/rkVTYYOAWtY?rel=0&hd=1&showinfo=0&theme=light&autohide=1" frameborder="0" allowfullscreen></iframe>
+
+Note:
+
+ 動画再生
+ https://www.youtube.com/embed/ZJzsnVXe_w0?rel=0&hd=1&showinfo=0&theme=light&autohide=1
+ https://www.youtube.com/watch?v=rkVTYYOAWtY
