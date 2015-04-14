@@ -2,6 +2,41 @@
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/rkVTYYOAWtY?rel=0&hd=1&showinfo=0&theme=light&autohide=1" frameborder="0" allowfullscreen></iframe>
 
+
+Note:
+
+"introduction.md",
+"solutions.md",
+"robots.md",
+"agency.md",
+"food.md",
+"draft-idea.md",
+"entertainment.md",
+"knowledge-management.md",
+"wearable.md",
+"realestate.md",
+"fitness.md",
+"kids.md",
+"care.md",
+"advertisting.md",
+"retail.md",
+"building.md",
+"iot.md",
+"publishing.md",
+"interior-goods.md",
+"sales.md",
+"survice.md",
+"education.md",
+"internet.md",
+"cosmetic.md",
+"sports.md",
+"recycle.md",
+"fashion.md",
+"designart.md",
+"automation.md"
+
+
+
 ---
 
 <div style="virtical-align:middle;height:500px;background-size:100%;background-image:url('images/tree-universe.jpg');
